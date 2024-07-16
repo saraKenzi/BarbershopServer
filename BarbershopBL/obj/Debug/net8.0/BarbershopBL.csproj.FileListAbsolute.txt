@@ -1,0 +1,17 @@
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.csproj.AssemblyReference.cache
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.AssemblyInfoInputs.cache
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.AssemblyInfo.cs
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.csproj.CoreCompileInputs.cache
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopBL.deps.json
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopBL.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopBL.pdb
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopDL.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopEntities.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopDL.pdb
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\bin\Debug\net8.0\BarbershopEntities.pdb
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\Barbersh.88AA0C0E.Up2Date
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\refint\BarbershopBL.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\BarbershopBL.pdb
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopBL\obj\Debug\net8.0\ref\BarbershopBL.dll

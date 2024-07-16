@@ -1,0 +1,12 @@
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\bin\Debug\net8.0\BarbershopEntities.deps.json
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\bin\Debug\net8.0\BarbershopEntities.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\bin\Debug\net8.0\BarbershopEntities.pdb
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.AssemblyInfoInputs.cache
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.AssemblyInfo.cs
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.csproj.CoreCompileInputs.cache
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\refint\BarbershopEntities.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.pdb
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\ref\BarbershopEntities.dll
+C:\Users\שרה\Desktop\abeles\BarbershopProject\BarbershopEntities\obj\Debug\net8.0\BarbershopEntities.csproj.AssemblyReference.cache

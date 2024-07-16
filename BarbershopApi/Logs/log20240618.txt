@@ -1,0 +1,210 @@
+2024-06-18 01:05:41.314 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - BarbershopApi.Controllers.UserController.GetUserIdsByFirstName (BarbershopApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-18 01:05:58.438 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - BarbershopApi.Controllers.UserController.GetUserIdsByFirstName (BarbershopApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-18 01:06:08.336 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - BarbershopApi.Controllers.UserController.GetUserIdsByFirstName (BarbershopApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-18 01:06:54.351 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - BarbershopApi.Controllers.UserController.GetUserIdsByFirstName (BarbershopApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-18 01:37:28.581 +03:00 [ERR] There is no user with that name.
+2024-06-18 01:37:28.612 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 01:37:35.870 +03:00 [ERR] There is no user with that name.
+2024-06-18 01:37:35.871 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 01:37:36.082 +03:00 [ERR] There is no user with that name.
+2024-06-18 01:37:36.083 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:04:31.799 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:04:31.845 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:04:32.012 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:04:32.012 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:05:38.140 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:05:38.141 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:05:38.363 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:05:38.364 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:06:41.339 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:06:41.340 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:06:41.549 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:06:41.550 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:08:44.411 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:08:44.412 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:09:17.093 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:09:17.097 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:09:17.306 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:09:17.308 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:10:19.796 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:10:19.797 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:10:29.788 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:10:29.789 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:11:04.925 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:11:04.925 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:11:05.142 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:11:05.143 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:11:48.526 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:11:48.526 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:13:32.922 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:13:32.922 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:14:06.674 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:14:06.675 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:14:23.535 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:14:23.536 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:14:38.824 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:14:38.824 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:14:39.038 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:14:39.039 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:15:00.535 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:15:00.536 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:15:10.941 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:15:10.941 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:15:53.646 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:15:53.647 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:16:03.768 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:16:03.769 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:16:03.982 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:16:03.983 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:16:25.808 +03:00 [ERR] Incorrect password.
+2024-06-18 02:16:25.808 +03:00 [ERR] Error from Login in controller401
+2024-06-18 02:18:44.578 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:18:44.578 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:19:22.465 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:19:22.465 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:22:35.053 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:22:35.053 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:22:35.263 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:22:35.264 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:22:40.326 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:22:40.333 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:22:40.546 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:22:40.547 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:22:57.494 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:22:57.494 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:26:41.866 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:26:41.866 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:26:42.087 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:26:42.087 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:27:22.490 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:27:22.491 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:27:22.702 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:27:22.703 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:28:41.545 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:28:41.575 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:28:41.763 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:28:41.764 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:30:28.013 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:30:28.014 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:30:28.226 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:30:28.227 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:34:40.986 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:34:40.987 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:34:41.211 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:34:41.214 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:53:11.644 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:53:11.645 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:54:39.240 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:54:39.240 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 02:54:39.442 +03:00 [ERR] There is no user with that name.
+2024-06-18 02:54:39.444 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:22:29.683 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:22:29.686 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:22:30.797 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:22:30.799 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:22:30.998 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:22:31.002 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:23:28.439 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:23:28.439 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:23:36.185 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:23:36.189 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:23:36.386 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:23:36.388 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:24:25.472 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:24:25.481 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:24:25.673 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:24:25.675 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:24:38.156 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:24:38.158 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:24:38.370 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:24:38.372 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:25:24.405 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:25:24.407 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:26:57.821 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:26:57.822 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:27:03.201 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:27:03.203 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 03:27:36.851 +03:00 [ERR] There is no user with that name.
+2024-06-18 03:27:36.853 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 04:45:36.768 +03:00 [ERR] Incorrect password.
+2024-06-18 04:45:36.768 +03:00 [ERR] Error from Login in controller401
+2024-06-18 13:30:04.213 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-18 13:30:04.392 +03:00 [ERR] An exception occurred while processing the key element '<key id="e69d64d1-0941-4b84-9833-07f395f73739" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-18 13:30:04.497 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-18 13:30:04.499 +03:00 [ERR] An exception occurred while processing the key element '<key id="7aa795b4-2293-49da-ad4b-18a9a1997e17" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-18 22:06:03.928 +03:00 [ERR] There is no user with that name.
+2024-06-18 22:06:04.017 +03:00 [ERR] Error from GetUserIdsByFirstName in controller404
+2024-06-18 22:51:17.923 +03:00 [ERR] Incorrect password.
+2024-06-18 22:51:17.924 +03:00 [ERR] Error from Login in controller401
+2024-06-18 23:59:41.685 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-18 23:59:41.981 +03:00 [ERR] An exception occurred while processing the key element '<key id="4801c616-6ca0-462e-8535-cc936f3b5f22" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-18 23:59:42.102 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-18 23:59:42.104 +03:00 [ERR] An exception occurred while processing the key element '<key id="cc966b91-b4e6-4b56-8775-352d9326d850" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)

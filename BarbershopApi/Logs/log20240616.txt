@@ -1,0 +1,420 @@
+2024-06-16 02:04:46.559 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-16 02:04:46.760 +03:00 [ERR] An exception occurred while processing the key element '<key id="6e299a2d-df8f-40e1-bd51-95196580aace" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-16 04:47:18.310 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.445 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.453 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.458 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.659 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.682 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.689 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:18.701 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.299 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.306 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.312 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.318 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.514 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.521 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.527 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.533 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.792 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.797 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.803 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.808 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.908 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.915 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.930 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:19.941 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.036 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.041 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.046 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.051 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.121 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.127 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.133 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.138 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.393 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.400 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.407 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.416 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.664 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.732 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.740 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.746 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.913 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.919 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.924 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:20.933 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.084 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.090 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.095 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.099 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.221 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.227 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.234 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.239 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.421 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.427 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.434 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.439 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.500 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.505 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.509 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.513 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.562 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.566 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.571 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.575 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.641 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.646 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.655 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.661 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.768 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.773 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.779 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.786 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.873 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.878 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.883 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.889 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.989 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.993 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:21.998 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.002 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.065 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.070 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.075 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.080 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.145 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.150 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.156 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.161 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.246 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.251 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.255 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.260 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.361 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.366 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.372 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.376 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.481 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.486 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.491 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.498 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.706 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.719 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.732 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.743 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.888 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.894 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.900 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:22.906 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.122 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.127 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.132 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.138 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.221 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.227 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.231 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.235 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.299 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.305 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.309 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.314 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.385 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.390 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.395 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.399 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.500 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.507 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.531 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.540 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.630 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.639 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.646 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.651 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.770 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.776 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.783 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.788 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.850 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.855 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.860 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.864 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.928 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.933 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.939 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:23.944 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.046 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.056 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.063 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.076 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.173 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.180 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.186 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.190 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.329 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.334 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.338 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.343 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.399 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.404 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.409 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.414 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.471 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.476 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.481 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.486 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.552 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.557 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.562 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.569 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.662 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.675 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.685 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.701 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.811 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.818 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.823 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.828 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.974 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.980 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.987 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:24.993 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.098 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.104 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.109 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.114 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.175 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.180 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.185 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.189 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.244 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.249 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.252 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.256 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.302 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.306 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.310 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.314 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.368 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.372 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.379 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.384 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.467 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.473 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.477 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.481 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.532 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.538 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.542 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.546 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.606 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.611 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.615 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.619 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.667 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.672 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.676 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.680 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.720 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.725 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.730 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.734 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.806 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.812 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.817 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.822 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.910 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.915 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.920 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:25.924 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.026 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.032 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.038 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.042 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.123 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.127 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.132 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.136 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.193 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.198 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.202 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.206 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.269 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.275 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.279 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.284 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.344 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.351 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.356 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.363 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.482 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.489 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.494 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.499 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.597 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.602 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.607 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.614 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.689 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.698 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.703 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.708 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.818 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.828 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.833 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.840 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.979 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.985 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.990 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:26.995 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.297 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.303 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.322 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.328 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.441 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.445 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.450 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.455 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.517 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.522 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.527 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.531 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.601 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.605 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.610 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.614 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.673 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.677 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.682 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.687 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.876 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.887 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.905 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:27.910 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.075 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.082 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.090 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.096 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.239 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.246 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.252 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.262 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.441 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.450 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.460 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.467 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.686 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.698 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.704 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:28.714 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.009 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.014 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.021 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.030 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.147 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.155 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.161 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.166 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.264 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.271 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.277 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.283 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.378 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.383 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.391 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.396 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.572 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.581 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.586 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.593 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.749 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.757 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.765 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.771 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.849 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.854 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.858 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.863 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.945 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.950 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.958 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:29.964 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.129 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.135 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.140 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.145 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.313 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.330 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.336 +03:00 [ERR] Invalid userId
+2024-06-16 04:47:30.342 +03:00 [ERR] Invalid userId
+2024-06-16 05:38:40.984 +03:00 [ERR] The date or time is no longer available, Closed on Saturday.
+2024-06-16 05:38:40.985 +03:00 [ERR] Error from CreateNewAppointment in controller400
+2024-06-16 08:30:28.774 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-16 08:30:29.194 +03:00 [ERR] An exception occurred while processing the key element '<key id="fef5123c-d925-472a-9fe0-18d4e3b695c1" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-16 11:03:37.527 +03:00 [ERR] There is no appointment to delete.
+2024-06-16 11:03:37.634 +03:00 [ERR] Error from DeleteAppointment in controller404
+2024-06-16 12:45:10.098 +03:00 [ERR] The date or time is no longer available.
+2024-06-16 12:45:10.099 +03:00 [ERR] Error from CreateNewAppointment in controller409
+2024-06-16 12:47:33.525 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-16 12:47:33.613 +03:00 [ERR] An exception occurred while processing the key element '<key id="eea9f9b4-be94-40c8-9b05-2b4093e9d5cb" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-16 12:47:33.663 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-16 12:47:33.664 +03:00 [ERR] An exception occurred while processing the key element '<key id="6e299a2d-df8f-40e1-bd51-95196580aace" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-16 12:47:37.307 +03:00 [ERR] The date or time is no longer available.
+2024-06-16 12:47:37.309 +03:00 [ERR] Error from CreateNewAppointment in controller409
+2024-06-16 12:48:04.534 +03:00 [ERR] The date or time is no longer available.
+2024-06-16 12:48:04.535 +03:00 [ERR] Error from CreateNewAppointment in controller409
+2024-06-16 12:49:15.444 +03:00 [ERR] The date or time is no longer available.
+2024-06-16 12:49:15.444 +03:00 [ERR] Error from CreateNewAppointment in controller409
+2024-06-16 20:56:35.243 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-16 20:56:35.386 +03:00 [ERR] An exception occurred while processing the key element '<key id="7aa795b4-2293-49da-ad4b-18a9a1997e17" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)

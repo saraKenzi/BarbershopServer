@@ -1,0 +1,44 @@
+2024-06-17 10:16:23.182 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-17 10:16:24.345 +03:00 [ERR] An exception occurred while processing the key element '<key id="cc966b91-b4e6-4b56-8775-352d9326d850" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-17 10:16:24.554 +03:00 [ERR] An exception occurred while trying to decrypt the element.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+2024-06-17 10:16:24.629 +03:00 [ERR] An exception occurred while processing the key element '<key id="6e299a2d-df8f-40e1-bd51-95196580aace" version="1" />'.
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapiCore(Byte* pbProtectedData, UInt32 cbProtectedData, Byte* pbOptionalEntropy, UInt32 cbOptionalEntropy)
+   at Microsoft.AspNetCore.DataProtection.Cng.DpapiSecretSerializerHelper.UnprotectWithDpapi(Byte[] protectedSecret)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.Decrypt(XElement encryptedElement)
+   at Microsoft.AspNetCore.DataProtection.XmlEncryption.XmlEncryptionExtensions.DecryptElement(XElement element, IActivator activator)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.Microsoft.AspNetCore.DataProtection.KeyManagement.Internal.IInternalXmlKeyManager.DeserializeDescriptorFromKeyElement(XElement keyElement)
+2024-06-17 11:04:00.366 +03:00 [ERR] The date and time are not available.
+2024-06-17 11:04:00.370 +03:00 [ERR] Error from UpdateAppointment in controller409
+2024-06-17 11:04:06.319 +03:00 [ERR] The date and time are not available.
+2024-06-17 11:04:06.320 +03:00 [ERR] Error from UpdateAppointment in controller409
+2024-06-17 11:11:16.550 +03:00 [ERR] The date and time are not available.
+2024-06-17 11:11:16.550 +03:00 [ERR] Error from UpdateAppointment in controller409
+2024-06-17 11:12:38.501 +03:00 [ERR] The date and time are not available.
+2024-06-17 11:12:38.502 +03:00 [ERR] Error from UpdateAppointment in controller409
+2024-06-17 13:09:03.809 +03:00 [ERR] Incorrect password.
+2024-06-17 13:09:03.896 +03:00 [ERR] Error from Login in controller401
+2024-06-17 21:30:11.957 +03:00 [ERR] There is already a user with that name.
+2024-06-17 21:30:12.097 +03:00 [ERR] Error from AddUser in controller409
+2024-06-17 21:32:29.387 +03:00 [ERR] There is already a user with that name.
+2024-06-17 21:32:29.478 +03:00 [ERR] Error from AddUser in controller409
+2024-06-17 21:33:10.704 +03:00 [ERR] Incorrect password.
+2024-06-17 21:33:10.704 +03:00 [ERR] Error from Login in controller401
+2024-06-17 21:33:19.105 +03:00 [ERR] Username does not exist.
+2024-06-17 21:33:19.105 +03:00 [ERR] Error from Login in controller404
+2024-06-17 21:55:21.698 +03:00 [ERR] Username does not exist.
+2024-06-17 21:55:21.699 +03:00 [ERR] Error from Login in controller404
